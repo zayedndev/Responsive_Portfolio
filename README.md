@@ -14,6 +14,6 @@ Assalamualaikum I am Zayed Hasan Noman. I am a web Developer. I have 1 year expe
 Your contributions are always welcome!
 
 # License
-Tongi Pilot School and Collage - [Md. Zobayer Hasan Nayem](https://github.com/zayedndev/)
+Tongi Pilot School and Collage - [Md. Zayed Hasan Noman](https://github.com/zayedndev/)
 
 <img src="https://user-images.githubusercontent.com/109432570/198681006-22b1a74c-86c8-4f7f-95d4-a827ffa14236.gif" width=55% height=55%>
